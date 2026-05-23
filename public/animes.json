@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "isekai cheat magician",
+    "genre": "isekai",
+    "episodes": 12
+  },
+  {
+    "id": 2,
+    "name": "solo leveling",
+    "genre": "dungeon",
+    "episodes": 24
+  },
+  {
+    "id": 3,
+    "name": "yuru camp",
+    "genre": "slice of life",
+    "episodes": 36
+  },
+  {
+    "id": 4,
+    "name": "demon slayer",
+    "genre": "action",
+    "episodes": 24
+  }
+]
